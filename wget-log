@@ -1,0 +1,6 @@
+--2024-09-27 00:38:48--  https://storage.googleapis.com/kagglesdsdata/datasets/2260131/3787929/admission_data.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256
+Resolving storage.googleapis.com (storage.googleapis.com)... 142.250.182.59, 142.250.182.27, 172.217.167.155, ...
+Connecting to storage.googleapis.com (storage.googleapis.com)|142.250.182.59|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2024-09-27 00:38:50 ERROR 400: Bad Request.
+
